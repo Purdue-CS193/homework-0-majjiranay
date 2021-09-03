@@ -4,7 +4,10 @@ Some of my favorite things in CS193
   - The class not being super early in the morning
   - The class being a gateway into learning how to implement the things we are learning in our lectures and labs into the real world
   - All the assignments being super easy
-  - 
+  
+  
+  
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
